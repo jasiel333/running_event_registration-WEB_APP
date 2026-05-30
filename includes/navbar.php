@@ -28,29 +28,29 @@
         <a href="register.php?category=21KM" style="display:flex; align-items:center; justify-content:space-between; background:#fef2f2; border:1.5px solid #fca5a5; border-radius:12px; padding:16px 20px; margin-bottom:10px; text-decoration:none; transition:all 0.2s;" onmouseover="this.style.borderColor='#ef4444'" onmouseout="this.style.borderColor='#fca5a5'">
             <div>
                 <div style="font-family:'Bebas Neue',sans-serif; font-size:28px; color:#ef4444; line-height:1;">21KM</div>
-                <div style="font-size:12px; color:#888; margin-top:2px;">Elite · Mixed Terrain</div>
+                <div style="font-size:12px; color:#888; margin-top:2px;">Half Marathon • Advanced</div>
             </div>
             <div style="text-align:right;">
                 <div style="font-size:20px; font-weight:700; color:#111;">₱700</div>
-                <div style="font-size:11px; font-weight:700; background:#ef4444; color:#fff; padding:3px 10px; border-radius:4px; margin-top:4px;">ELITE</div>
+                <div style="font-size:11px; font-weight:700; background:#ef4444; color:#fff; padding:3px 10px; border-radius:4px; margin-top:4px;">ADVANCED</div>
             </div>
         </a>
 
         <a href="register.php?category=10KM" style="display:flex; align-items:center; justify-content:space-between; background:#fff7ed; border:1.5px solid #fdba74; border-radius:12px; padding:16px 20px; margin-bottom:10px; text-decoration:none; transition:all 0.2s;" onmouseover="this.style.borderColor='#f97316'" onmouseout="this.style.borderColor='#fdba74'">
             <div>
                 <div style="font-family:'Bebas Neue',sans-serif; font-size:28px; color:#f97316; line-height:1;">10KM</div>
-                <div style="font-size:12px; color:#888; margin-top:2px;">Popular · Trail Run</div>
+                <div style="font-size:12px; color:#888; margin-top:2px;">Road Race • Intermediate</div>
             </div>
             <div style="text-align:right;">
                 <div style="font-size:20px; font-weight:700; color:#111;">₱550</div>
-                <div style="font-size:11px; font-weight:700; background:#f97316; color:#fff; padding:3px 10px; border-radius:4px; margin-top:4px;">POPULAR</div>
+                <div style="font-size:11px; font-weight:700; background:#f97316; color:#fff; padding:3px 10px; border-radius:4px; margin-top:4px;">INTERMEDIATE</div>
             </div>
         </a>
 
         <a href="register.php?category=5KM" style="display:flex; align-items:center; justify-content:space-between; background:#f0f9ff; border:1.5px solid #7dd3fc; border-radius:12px; padding:16px 20px; margin-bottom:0; text-decoration:none; transition:all 0.2s;" onmouseover="this.style.borderColor='#0ea5e9'" onmouseout="this.style.borderColor='#7dd3fc'">
             <div>
                 <div style="font-family:'Bebas Neue',sans-serif; font-size:28px; color:#0ea5e9; line-height:1;">5KM</div>
-                <div style="font-size:12px; color:#888; margin-top:2px;">Fun Run · All levels</div>
+                <div style="font-size:12px; color:#888; margin-top:2px;">Fun Run • Beginner Friendly</div>
             </div>
             <div style="text-align:right;">
                 <div style="font-size:20px; font-weight:700; color:#111;">₱400</div>
