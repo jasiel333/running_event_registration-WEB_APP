@@ -20,7 +20,7 @@ while ($row = mysqli_fetch_assoc($cat_result)) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Banog-Banog Mixed Terrain Invitational Run 2026</title>
+    <title>IT-Festival Invitational Run 2026<</title>
     <link rel="stylesheet" href="assets/css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@300;400;500;600;700&family=Barlow+Condensed:wght@400;600;700;800&display=swap" rel="stylesheet">
     <style>
@@ -361,31 +361,31 @@ while ($row = mysqli_fetch_assoc($cat_result)) {
     <div class="hero-bg"></div>
     <div class="hero-gradient"></div>
     <div class="hero-content">
-        <div class="hero-badge">Registration Open — June 6, 2026</div>
+        <div class="hero-badge">Registration Open — June 4, 2026</div>
         <h1>
-            BANOG-BANOG<br>
-            <span>MIXED TERRAIN</span><br>
-            INVITATIONAL RUN
+            IT-FEST<br>
+            <span>INVITATIONAL</span><br>
+             RUN 2026
         </h1>
         <div class="hero-meta">
             <div class="meta-item">
                 <div class="meta-icon">📅</div>
                 <div>
-                    <div style="font-weight:600;color:#fff;">June 6, 2026</div>
+                    <div style="font-weight:600;color:#fff;">June 5, 2026</div>
                     <div style="font-size:13px;color:#888;">Race Day</div>
                 </div>
             </div>
             <div class="meta-item">
                 <div class="meta-icon">📍</div>
                 <div>
-                    <div style="font-weight:600;color:#fff;">Manolo Fortich, Bukidnon</div>
+                    <div style="font-weight:600;color:#fff;">NBSC Manolo Fortich, Bukidnon</div>
                     <div style="font-size:13px;color:#888;">Starting Point</div>
                 </div>
             </div>
             <div class="meta-item">
-                <div class="meta-icon">🦅</div>
+                <div class="meta-icon">🧑‍💻</div>
                 <div>
-                    <div style="font-weight:600;color:#fff;">Philippine Eagle Month</div>
+                    <div style="font-weight:600;color:#fff;">IT-FESTIVAL</div>
                     <div style="font-size:13px;color:#888;">Celebration Run</div>
                 </div>
             </div>
@@ -412,7 +412,7 @@ while ($row = mysqli_fetch_assoc($cat_result)) {
         <div class="stat-label">Longest Distance</div>
     </div>
     <div class="stat-item">
-        <div class="stat-num">June 6</div>
+        <div class="stat-num">June 5</div>
         <div class="stat-label">Race Date 2026</div>
     </div>
 </div>
@@ -426,12 +426,10 @@ while ($row = mysqli_fetch_assoc($cat_result)) {
         <h2>About the Event</h2>
 
         <p>
-            In celebration of <strong style="color:var(--text);">Philippine Eagle Month</strong>, the Municipality of Manolo Fortich
-            proudly presents the Banog-Banog Mixed Terrain Invitational Run 2026. This event is open
-            to all ages and fitness levels, including special categories for youth, senior runners
-            <strong style="color:var(--text);">50 years old and above</strong>. This activity aims to promote physical fitness,
-            camaraderie, and environmental awareness while honoring the strength and resilience
-            symbolized by the Philippine Eagle.
+            In celebration of the <strong style="color:var(--text);">IT Festival 2026</strong>, the Institute of Computer Studies
+            proudly presents the <strong style="color:var(--text);">IT Festival Invitational Run 2026</strong>. This event is open to all students,
+            faculty, alumni, and running enthusiasts of all fitness levels. The activity aims to promote physical fitness, camaraderie, sportsmanship,
+            and a healthy lifestyle while celebrating unity and excellence within the IT community.
         </p>
 
         <img
@@ -447,7 +445,7 @@ while ($row = mysqli_fetch_assoc($cat_result)) {
             <li>21KM — ₱700</li>
         </ul>
 
-        <p>Join us on <strong style="color:var(--text);">JUNE 6, 2026</strong>, for an unforgettable trail running experience through the breathtaking landscape of Banog-Banog, Manolo Fortich.</p>
+        <p>Join us on <strong style="color:var(--text);">JUNE 5, 2026</strong>, at NBSC Manolo Fortich, Bukidnon for an unforgettable running experience!</p>
 
         <h2>How to Register:</h2>
 
